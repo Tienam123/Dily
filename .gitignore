@@ -1,0 +1,15 @@
+.idea
+api/node_modules
+api/vendor
+frontend/.idea
+frontend/node_modules
+frontend/.next
+api/.editorconfig
+api/.gutattributes
+api/composer.lock
+api/.env
+frontend/.env
+frontend/.env.local
+frontend/.idea
+frontend/yarn.lock
+api/.idea
